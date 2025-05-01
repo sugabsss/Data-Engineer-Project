@@ -1,0 +1,1207 @@
+id_usuario,id_funcionario,motivo_banimento
+9,251,Atividade suspeita detectada
+10,1272,Violação dos termos de uso
+19,302,Uso de linguagem ofensiva
+33,1084,Fraude confirmada
+35,879,Uso de linguagem ofensiva
+40,40,Atividade suspeita detectada
+45,164,Comportamento abusivo com outros usuários
+47,375,Spam repetido
+48,1857,Fraude confirmada
+57,638,Violação dos termos de uso
+83,716,Uso de linguagem ofensiva
+98,1726,Fraude confirmada
+110,1113,Atividade suspeita detectada
+129,1050,Spam repetido
+140,1389,Comportamento abusivo com outros usuários
+144,1760,Spam repetido
+146,1726,Uso de linguagem ofensiva
+150,458,Atividade suspeita detectada
+152,1098,Comportamento abusivo com outros usuários
+161,462,Spam repetido
+174,1943,Spam repetido
+176,1130,Comportamento abusivo com outros usuários
+179,2008,Spam repetido
+187,1745,Fraude confirmada
+190,2045,Violação dos termos de uso
+198,173,Fraude confirmada
+212,1836,Atividade suspeita detectada
+213,152,Tentativa de invasão
+224,281,Atividade suspeita detectada
+245,1237,Uso de linguagem ofensiva
+251,477,Fraude confirmada
+259,108,Fraude confirmada
+262,1017,Uso de linguagem ofensiva
+264,16,Fraude confirmada
+281,821,Comportamento abusivo com outros usuários
+282,1481,Spam repetido
+288,1370,Uso de linguagem ofensiva
+307,205,Fraude confirmada
+323,909,Spam repetido
+326,171,Comportamento abusivo com outros usuários
+337,1251,Uso de linguagem ofensiva
+348,414,Comportamento abusivo com outros usuários
+349,956,Tentativa de invasão
+352,1016,Fraude confirmada
+357,465,Uso de linguagem ofensiva
+364,280,Fraude confirmada
+386,266,Violação dos termos de uso
+393,710,Tentativa de invasão
+401,315,Atividade suspeita detectada
+402,443,Violação dos termos de uso
+420,511,Comportamento abusivo com outros usuários
+422,1396,Uso de linguagem ofensiva
+434,315,Uso de linguagem ofensiva
+439,406,Tentativa de invasão
+442,656,Comportamento abusivo com outros usuários
+451,1684,Violação dos termos de uso
+455,1944,Fraude confirmada
+461,1456,Uso de linguagem ofensiva
+463,789,Fraude confirmada
+464,1614,Tentativa de invasão
+465,89,Atividade suspeita detectada
+467,1916,Uso de linguagem ofensiva
+472,1698,Spam repetido
+476,1335,Tentativa de invasão
+497,941,Comportamento abusivo com outros usuários
+512,500,Tentativa de invasão
+520,1395,Fraude confirmada
+524,855,Comportamento abusivo com outros usuários
+541,1041,Violação dos termos de uso
+546,1903,Fraude confirmada
+547,804,Uso de linguagem ofensiva
+558,1268,Fraude confirmada
+567,677,Spam repetido
+575,498,Comportamento abusivo com outros usuários
+578,1402,Spam repetido
+580,87,Fraude confirmada
+592,1698,Atividade suspeita detectada
+601,636,Spam repetido
+610,1014,Fraude confirmada
+616,1880,Atividade suspeita detectada
+622,1391,Spam repetido
+624,1662,Spam repetido
+630,1243,Fraude confirmada
+634,1113,Violação dos termos de uso
+654,477,Tentativa de invasão
+667,1421,Fraude confirmada
+693,1689,Atividade suspeita detectada
+706,2036,Comportamento abusivo com outros usuários
+711,1163,Tentativa de invasão
+713,646,Spam repetido
+733,1510,Atividade suspeita detectada
+739,1944,Spam repetido
+740,545,Uso de linguagem ofensiva
+749,750,Uso de linguagem ofensiva
+752,1946,Atividade suspeita detectada
+754,958,Uso de linguagem ofensiva
+759,1454,Spam repetido
+811,173,Spam repetido
+812,889,Tentativa de invasão
+815,2011,Spam repetido
+821,927,Comportamento abusivo com outros usuários
+830,564,Comportamento abusivo com outros usuários
+844,485,Tentativa de invasão
+856,841,Fraude confirmada
+868,1335,Tentativa de invasão
+869,871,Atividade suspeita detectada
+888,1841,Fraude confirmada
+907,1662,Uso de linguagem ofensiva
+912,241,Fraude confirmada
+917,408,Tentativa de invasão
+921,258,Fraude confirmada
+924,1831,Comportamento abusivo com outros usuários
+935,636,Comportamento abusivo com outros usuários
+938,439,Atividade suspeita detectada
+941,1468,Tentativa de invasão
+945,68,Violação dos termos de uso
+952,900,Atividade suspeita detectada
+954,1518,Spam repetido
+959,771,Comportamento abusivo com outros usuários
+966,1183,Atividade suspeita detectada
+971,1037,Tentativa de invasão
+976,1133,Comportamento abusivo com outros usuários
+982,1045,Violação dos termos de uso
+984,1419,Tentativa de invasão
+988,1357,Violação dos termos de uso
+1005,1487,Uso de linguagem ofensiva
+1007,417,Fraude confirmada
+1008,53,Comportamento abusivo com outros usuários
+1018,1797,Uso de linguagem ofensiva
+1022,1222,Fraude confirmada
+1025,1369,Atividade suspeita detectada
+1031,921,Fraude confirmada
+1041,1761,Atividade suspeita detectada
+1042,2024,Fraude confirmada
+1043,1065,Fraude confirmada
+1044,1928,Atividade suspeita detectada
+1057,993,Uso de linguagem ofensiva
+1059,1837,Atividade suspeita detectada
+1080,1043,Atividade suspeita detectada
+1082,1966,Atividade suspeita detectada
+1089,1019,Uso de linguagem ofensiva
+1097,1847,Uso de linguagem ofensiva
+1103,537,Spam repetido
+1106,98,Tentativa de invasão
+1113,223,Tentativa de invasão
+1116,663,Atividade suspeita detectada
+1117,1377,Atividade suspeita detectada
+1123,1457,Tentativa de invasão
+1125,234,Violação dos termos de uso
+1127,282,Tentativa de invasão
+1132,1691,Spam repetido
+1133,1420,Spam repetido
+1142,1370,Comportamento abusivo com outros usuários
+1143,1370,Violação dos termos de uso
+1154,14,Uso de linguagem ofensiva
+1159,2074,Fraude confirmada
+1185,1399,Fraude confirmada
+1189,1045,Atividade suspeita detectada
+1192,1888,Tentativa de invasão
+1193,254,Violação dos termos de uso
+1194,1761,Spam repetido
+1204,1856,Fraude confirmada
+1215,417,Atividade suspeita detectada
+1217,1112,Fraude confirmada
+1221,360,Violação dos termos de uso
+1227,1009,Comportamento abusivo com outros usuários
+1238,854,Comportamento abusivo com outros usuários
+1242,70,Violação dos termos de uso
+1243,1944,Fraude confirmada
+1254,902,Spam repetido
+1267,1065,Comportamento abusivo com outros usuários
+1268,1448,Atividade suspeita detectada
+1286,1333,Tentativa de invasão
+1293,2025,Uso de linguagem ofensiva
+1294,1748,Uso de linguagem ofensiva
+1295,1033,Fraude confirmada
+1308,859,Tentativa de invasão
+1315,1738,Fraude confirmada
+1322,1771,Fraude confirmada
+1324,693,Comportamento abusivo com outros usuários
+1330,1943,Spam repetido
+1336,1430,Spam repetido
+1337,1527,Violação dos termos de uso
+1355,1335,Fraude confirmada
+1368,449,Spam repetido
+1372,1756,Atividade suspeita detectada
+1381,1106,Spam repetido
+1394,70,Comportamento abusivo com outros usuários
+1396,449,Violação dos termos de uso
+1436,1501,Comportamento abusivo com outros usuários
+1441,525,Fraude confirmada
+1454,1805,Atividade suspeita detectada
+1457,1396,Tentativa de invasão
+1465,1202,Fraude confirmada
+1471,132,Spam repetido
+1472,1879,Violação dos termos de uso
+1478,1663,Tentativa de invasão
+1485,1339,Comportamento abusivo com outros usuários
+1504,590,Atividade suspeita detectada
+1509,1572,Violação dos termos de uso
+1511,1879,Comportamento abusivo com outros usuários
+1524,254,Uso de linguagem ofensiva
+1527,1345,Violação dos termos de uso
+1529,1338,Atividade suspeita detectada
+1531,1042,Fraude confirmada
+1535,470,Comportamento abusivo com outros usuários
+1545,784,Violação dos termos de uso
+1550,918,Atividade suspeita detectada
+1552,960,Comportamento abusivo com outros usuários
+1571,818,Comportamento abusivo com outros usuários
+1578,2035,Spam repetido
+1584,1458,Spam repetido
+1588,456,Atividade suspeita detectada
+1590,761,Comportamento abusivo com outros usuários
+1592,53,Atividade suspeita detectada
+1615,1249,Atividade suspeita detectada
+1631,262,Comportamento abusivo com outros usuários
+1635,1222,Comportamento abusivo com outros usuários
+1644,1840,Comportamento abusivo com outros usuários
+1648,771,Comportamento abusivo com outros usuários
+1650,1836,Spam repetido
+1651,80,Atividade suspeita detectada
+1655,1932,Uso de linguagem ofensiva
+1659,454,Fraude confirmada
+1666,1406,Spam repetido
+1681,293,Uso de linguagem ofensiva
+1701,941,Atividade suspeita detectada
+1702,226,Violação dos termos de uso
+1716,1836,Atividade suspeita detectada
+1728,1219,Spam repetido
+1736,969,Comportamento abusivo com outros usuários
+1739,1076,Spam repetido
+1742,1460,Comportamento abusivo com outros usuários
+1746,1342,Uso de linguagem ofensiva
+1750,850,Spam repetido
+1761,1865,Tentativa de invasão
+1776,892,Tentativa de invasão
+1788,861,Violação dos termos de uso
+1824,1415,Violação dos termos de uso
+1829,1839,Tentativa de invasão
+1845,588,Fraude confirmada
+1846,1075,Violação dos termos de uso
+1860,2053,Atividade suspeita detectada
+1877,1683,Fraude confirmada
+1904,667,Fraude confirmada
+1917,1870,Comportamento abusivo com outros usuários
+1922,1527,Spam repetido
+1926,517,Uso de linguagem ofensiva
+1951,319,Tentativa de invasão
+1958,1336,Violação dos termos de uso
+1963,1325,Spam repetido
+1978,677,Atividade suspeita detectada
+1982,1058,Comportamento abusivo com outros usuários
+1994,2061,Spam repetido
+1995,1468,Atividade suspeita detectada
+2001,997,Tentativa de invasão
+2014,639,Spam repetido
+2015,592,Fraude confirmada
+2018,947,Violação dos termos de uso
+2019,328,Comportamento abusivo com outros usuários
+2029,1903,Tentativa de invasão
+2031,1713,Violação dos termos de uso
+2033,363,Comportamento abusivo com outros usuários
+2034,447,Violação dos termos de uso
+2048,631,Spam repetido
+2058,1537,Spam repetido
+2059,764,Fraude confirmada
+2069,986,Comportamento abusivo com outros usuários
+2077,822,Atividade suspeita detectada
+2094,462,Fraude confirmada
+2096,66,Atividade suspeita detectada
+2104,1087,Atividade suspeita detectada
+2125,1278,Atividade suspeita detectada
+2127,329,Spam repetido
+2129,1831,Atividade suspeita detectada
+2175,1424,Tentativa de invasão
+2178,441,Spam repetido
+2196,374,Spam repetido
+2208,1391,Uso de linguagem ofensiva
+2225,878,Spam repetido
+2238,655,Uso de linguagem ofensiva
+2245,580,Comportamento abusivo com outros usuários
+2248,1522,Spam repetido
+2260,89,Uso de linguagem ofensiva
+2283,1,Tentativa de invasão
+2290,1454,Spam repetido
+2295,1994,Spam repetido
+2300,853,Fraude confirmada
+2301,895,Spam repetido
+2320,618,Atividade suspeita detectada
+2335,578,Fraude confirmada
+2358,1219,Fraude confirmada
+2363,969,Spam repetido
+2371,409,Violação dos termos de uso
+2377,1481,Spam repetido
+2380,874,Uso de linguagem ofensiva
+2381,1689,Tentativa de invasão
+2394,1805,Uso de linguagem ofensiva
+2397,2011,Fraude confirmada
+2409,992,Tentativa de invasão
+2416,470,Violação dos termos de uso
+2417,351,Tentativa de invasão
+2418,1338,Uso de linguagem ofensiva
+2419,1587,Uso de linguagem ofensiva
+2424,1865,Fraude confirmada
+2449,1829,Fraude confirmada
+2461,698,Comportamento abusivo com outros usuários
+2465,1541,Tentativa de invasão
+2469,1773,Fraude confirmada
+2473,1761,Fraude confirmada
+2475,512,Fraude confirmada
+2476,809,Spam repetido
+2513,1457,Comportamento abusivo com outros usuários
+2516,757,Comportamento abusivo com outros usuários
+2522,1297,Fraude confirmada
+2524,340,Tentativa de invasão
+2526,1264,Comportamento abusivo com outros usuários
+2538,469,Tentativa de invasão
+2540,1048,Comportamento abusivo com outros usuários
+2548,863,Uso de linguagem ofensiva
+2557,2041,Tentativa de invasão
+2562,1979,Tentativa de invasão
+2577,1347,Fraude confirmada
+2583,216,Uso de linguagem ofensiva
+2584,1255,Tentativa de invasão
+2588,1534,Comportamento abusivo com outros usuários
+2601,741,Comportamento abusivo com outros usuários
+2608,1387,Violação dos termos de uso
+2619,1135,Violação dos termos de uso
+2626,878,Tentativa de invasão
+2638,1740,Spam repetido
+2639,319,Comportamento abusivo com outros usuários
+2641,938,Violação dos termos de uso
+2650,1638,Violação dos termos de uso
+2666,1852,Fraude confirmada
+2692,1805,Comportamento abusivo com outros usuários
+2708,953,Fraude confirmada
+2709,484,Tentativa de invasão
+2717,96,Atividade suspeita detectada
+2719,387,Comportamento abusivo com outros usuários
+2744,1889,Fraude confirmada
+2748,374,Spam repetido
+2755,1496,Uso de linguagem ofensiva
+2791,289,Uso de linguagem ofensiva
+2792,928,Spam repetido
+2794,1886,Tentativa de invasão
+2801,1793,Fraude confirmada
+2803,532,Tentativa de invasão
+2869,1411,Fraude confirmada
+2870,1028,Fraude confirmada
+2873,925,Comportamento abusivo com outros usuários
+2882,46,Violação dos termos de uso
+2896,280,Violação dos termos de uso
+2912,1068,Tentativa de invasão
+2924,405,Fraude confirmada
+2929,837,Atividade suspeita detectada
+2946,678,Uso de linguagem ofensiva
+2954,174,Spam repetido
+2962,162,Violação dos termos de uso
+2964,80,Comportamento abusivo com outros usuários
+2967,957,Spam repetido
+2968,1124,Atividade suspeita detectada
+2996,1368,Comportamento abusivo com outros usuários
+3019,1022,Atividade suspeita detectada
+3031,768,Uso de linguagem ofensiva
+3033,148,Uso de linguagem ofensiva
+3044,1826,Comportamento abusivo com outros usuários
+3049,1262,Comportamento abusivo com outros usuários
+3050,83,Atividade suspeita detectada
+3053,1541,Atividade suspeita detectada
+3061,460,Comportamento abusivo com outros usuários
+3062,54,Fraude confirmada
+3063,77,Comportamento abusivo com outros usuários
+3078,764,Uso de linguagem ofensiva
+3083,587,Comportamento abusivo com outros usuários
+3085,1922,Violação dos termos de uso
+3093,1267,Tentativa de invasão
+3111,173,Atividade suspeita detectada
+3136,1081,Fraude confirmada
+3153,596,Fraude confirmada
+3159,1068,Tentativa de invasão
+3164,868,Comportamento abusivo com outros usuários
+3167,547,Uso de linguagem ofensiva
+3185,487,Uso de linguagem ofensiva
+3189,504,Atividade suspeita detectada
+3194,1349,Violação dos termos de uso
+3207,1994,Comportamento abusivo com outros usuários
+3213,924,Tentativa de invasão
+3222,589,Uso de linguagem ofensiva
+3223,472,Violação dos termos de uso
+3236,1325,Spam repetido
+3242,62,Fraude confirmada
+3251,1612,Fraude confirmada
+3257,371,Violação dos termos de uso
+3265,757,Tentativa de invasão
+3275,397,Fraude confirmada
+3276,991,Atividade suspeita detectada
+3287,1756,Comportamento abusivo com outros usuários
+3303,2013,Fraude confirmada
+3306,2001,Atividade suspeita detectada
+3307,682,Tentativa de invasão
+3312,1052,Atividade suspeita detectada
+3314,780,Tentativa de invasão
+3318,1423,Tentativa de invasão
+3319,285,Violação dos termos de uso
+3331,1700,Fraude confirmada
+3342,1269,Atividade suspeita detectada
+3354,441,Spam repetido
+3355,1426,Uso de linguagem ofensiva
+3366,409,Fraude confirmada
+3369,768,Tentativa de invasão
+3387,1563,Atividade suspeita detectada
+3391,589,Spam repetido
+3394,1854,Atividade suspeita detectada
+3406,618,Violação dos termos de uso
+3407,382,Violação dos termos de uso
+3408,17,Spam repetido
+3414,1724,Uso de linguagem ofensiva
+3418,124,Atividade suspeita detectada
+3427,532,Atividade suspeita detectada
+3437,877,Spam repetido
+3443,1497,Spam repetido
+3454,497,Tentativa de invasão
+3455,335,Spam repetido
+3457,375,Spam repetido
+3459,379,Tentativa de invasão
+3464,6,Uso de linguagem ofensiva
+3475,1994,Fraude confirmada
+3482,619,Tentativa de invasão
+3483,1899,Spam repetido
+3486,133,Spam repetido
+3503,576,Violação dos termos de uso
+3521,190,Uso de linguagem ofensiva
+3523,1018,Uso de linguagem ofensiva
+3531,303,Spam repetido
+3540,1265,Atividade suspeita detectada
+3542,1765,Comportamento abusivo com outros usuários
+3554,1464,Atividade suspeita detectada
+3556,1719,Violação dos termos de uso
+3557,1471,Comportamento abusivo com outros usuários
+3566,860,Fraude confirmada
+3572,683,Atividade suspeita detectada
+3573,679,Atividade suspeita detectada
+3612,40,Violação dos termos de uso
+3621,1019,Violação dos termos de uso
+3625,733,Violação dos termos de uso
+3632,537,Uso de linguagem ofensiva
+3637,735,Fraude confirmada
+3645,366,Uso de linguagem ofensiva
+3647,1416,Violação dos termos de uso
+3652,1943,Uso de linguagem ofensiva
+3659,1567,Fraude confirmada
+3660,1424,Atividade suspeita detectada
+3668,1806,Comportamento abusivo com outros usuários
+3672,1573,Uso de linguagem ofensiva
+3674,1238,Comportamento abusivo com outros usuários
+3684,676,Tentativa de invasão
+3697,633,Tentativa de invasão
+3717,621,Fraude confirmada
+3719,1712,Violação dos termos de uso
+3727,1786,Tentativa de invasão
+3769,85,Tentativa de invasão
+3771,522,Violação dos termos de uso
+3789,949,Tentativa de invasão
+3810,113,Tentativa de invasão
+3814,1073,Uso de linguagem ofensiva
+3823,828,Atividade suspeita detectada
+3826,992,Atividade suspeita detectada
+3856,1823,Spam repetido
+3857,1,Atividade suspeita detectada
+3859,1935,Uso de linguagem ofensiva
+3864,1719,Comportamento abusivo com outros usuários
+3871,468,Comportamento abusivo com outros usuários
+3876,55,Uso de linguagem ofensiva
+3878,937,Spam repetido
+3879,266,Fraude confirmada
+3883,1318,Uso de linguagem ofensiva
+3905,978,Violação dos termos de uso
+3906,1596,Tentativa de invasão
+3907,716,Uso de linguagem ofensiva
+3909,678,Spam repetido
+3910,128,Violação dos termos de uso
+3928,1557,Uso de linguagem ofensiva
+3930,1357,Atividade suspeita detectada
+3953,1182,Atividade suspeita detectada
+3961,1925,Violação dos termos de uso
+3990,1270,Uso de linguagem ofensiva
+3995,457,Violação dos termos de uso
+3996,664,Violação dos termos de uso
+4003,1470,Fraude confirmada
+4027,1122,Uso de linguagem ofensiva
+4031,1045,Atividade suspeita detectada
+4051,35,Uso de linguagem ofensiva
+4067,1515,Spam repetido
+4071,1983,Tentativa de invasão
+4075,1251,Atividade suspeita detectada
+4090,1748,Spam repetido
+4091,1239,Violação dos termos de uso
+4093,1075,Spam repetido
+4097,1238,Fraude confirmada
+4114,608,Fraude confirmada
+4127,1243,Spam repetido
+4129,923,Spam repetido
+4130,1008,Tentativa de invasão
+4133,462,Tentativa de invasão
+4153,368,Comportamento abusivo com outros usuários
+4156,960,Violação dos termos de uso
+4182,1699,Spam repetido
+4189,560,Violação dos termos de uso
+4201,1325,Tentativa de invasão
+4208,2041,Tentativa de invasão
+4218,1249,Atividade suspeita detectada
+4225,366,Uso de linguagem ofensiva
+4230,894,Violação dos termos de uso
+4231,770,Fraude confirmada
+4239,2069,Violação dos termos de uso
+4247,1991,Uso de linguagem ofensiva
+4248,626,Comportamento abusivo com outros usuários
+4260,151,Violação dos termos de uso
+4267,746,Uso de linguagem ofensiva
+4270,1654,Atividade suspeita detectada
+4277,1397,Atividade suspeita detectada
+4281,1281,Atividade suspeita detectada
+4288,1699,Comportamento abusivo com outros usuários
+4305,227,Comportamento abusivo com outros usuários
+4314,1115,Uso de linguagem ofensiva
+4337,1748,Uso de linguagem ofensiva
+4343,1291,Violação dos termos de uso
+4387,321,Tentativa de invasão
+4388,937,Violação dos termos de uso
+4397,462,Atividade suspeita detectada
+4399,1770,Atividade suspeita detectada
+4421,784,Atividade suspeita detectada
+4422,1729,Violação dos termos de uso
+4457,120,Spam repetido
+4464,317,Spam repetido
+4468,1041,Violação dos termos de uso
+4475,1411,Fraude confirmada
+4478,1502,Spam repetido
+4486,222,Uso de linguagem ofensiva
+4491,320,Spam repetido
+4509,788,Comportamento abusivo com outros usuários
+4514,952,Spam repetido
+4531,682,Spam repetido
+4537,1415,Spam repetido
+4547,1767,Uso de linguagem ofensiva
+4550,213,Violação dos termos de uso
+4552,1532,Fraude confirmada
+4564,1420,Violação dos termos de uso
+4580,248,Violação dos termos de uso
+4581,1583,Violação dos termos de uso
+4587,920,Violação dos termos de uso
+4588,846,Fraude confirmada
+4594,96,Atividade suspeita detectada
+4596,882,Fraude confirmada
+4601,751,Comportamento abusivo com outros usuários
+4605,1893,Fraude confirmada
+4617,329,Fraude confirmada
+4618,1031,Atividade suspeita detectada
+4641,1115,Fraude confirmada
+4645,465,Spam repetido
+4651,1985,Comportamento abusivo com outros usuários
+4657,1615,Comportamento abusivo com outros usuários
+4663,588,Atividade suspeita detectada
+4669,707,Spam repetido
+4670,1658,Uso de linguagem ofensiva
+4674,1903,Violação dos termos de uso
+4676,1612,Violação dos termos de uso
+4677,177,Comportamento abusivo com outros usuários
+4678,2001,Tentativa de invasão
+4680,695,Spam repetido
+4682,387,Atividade suspeita detectada
+4686,311,Fraude confirmada
+4688,2004,Comportamento abusivo com outros usuários
+4700,283,Spam repetido
+4715,1297,Spam repetido
+4718,1621,Spam repetido
+4720,1745,Fraude confirmada
+4724,771,Tentativa de invasão
+4739,1518,Atividade suspeita detectada
+4748,627,Tentativa de invasão
+4750,793,Uso de linguagem ofensiva
+4758,1112,Violação dos termos de uso
+4767,1869,Tentativa de invasão
+4785,642,Violação dos termos de uso
+4790,614,Fraude confirmada
+4799,696,Atividade suspeita detectada
+4800,290,Uso de linguagem ofensiva
+4810,964,Fraude confirmada
+4813,65,Violação dos termos de uso
+4822,1764,Atividade suspeita detectada
+4823,1396,Fraude confirmada
+4829,1348,Violação dos termos de uso
+4833,1932,Tentativa de invasão
+4845,1769,Spam repetido
+4847,436,Violação dos termos de uso
+4853,362,Atividade suspeita detectada
+4862,306,Violação dos termos de uso
+4863,877,Spam repetido
+4866,971,Spam repetido
+4870,925,Uso de linguagem ofensiva
+4892,2043,Violação dos termos de uso
+4899,1957,Violação dos termos de uso
+4903,1679,Violação dos termos de uso
+4914,605,Comportamento abusivo com outros usuários
+4916,1022,Comportamento abusivo com outros usuários
+4938,1583,Tentativa de invasão
+4943,1675,Spam repetido
+4946,1567,Uso de linguagem ofensiva
+4950,1363,Atividade suspeita detectada
+4972,1450,Atividade suspeita detectada
+4978,1567,Tentativa de invasão
+4984,158,Atividade suspeita detectada
+5009,1703,Atividade suspeita detectada
+5010,1684,Violação dos termos de uso
+5012,251,Violação dos termos de uso
+5025,1223,Fraude confirmada
+5030,618,Tentativa de invasão
+5042,608,Atividade suspeita detectada
+5056,1805,Tentativa de invasão
+5057,536,Comportamento abusivo com outros usuários
+5069,924,Tentativa de invasão
+5071,678,Atividade suspeita detectada
+5072,944,Uso de linguagem ofensiva
+5089,174,Fraude confirmada
+5098,1719,Uso de linguagem ofensiva
+5120,325,Atividade suspeita detectada
+5148,1945,Uso de linguagem ofensiva
+5157,903,Tentativa de invasão
+5165,742,Atividade suspeita detectada
+5217,842,Atividade suspeita detectada
+5219,1553,Tentativa de invasão
+5227,1704,Comportamento abusivo com outros usuários
+5229,877,Atividade suspeita detectada
+5235,1573,Uso de linguagem ofensiva
+5257,2014,Comportamento abusivo com outros usuários
+5261,855,Spam repetido
+5263,861,Fraude confirmada
+5267,903,Violação dos termos de uso
+5280,1117,Atividade suspeita detectada
+5292,809,Tentativa de invasão
+5298,1710,Violação dos termos de uso
+5316,1913,Uso de linguagem ofensiva
+5320,1239,Fraude confirmada
+5321,671,Violação dos termos de uso
+5322,979,Tentativa de invasão
+5323,125,Atividade suspeita detectada
+5324,1314,Fraude confirmada
+5339,3,Violação dos termos de uso
+5343,1348,Uso de linguagem ofensiva
+5345,399,Comportamento abusivo com outros usuários
+5351,1033,Spam repetido
+5365,557,Violação dos termos de uso
+5379,1795,Comportamento abusivo com outros usuários
+5380,1033,Spam repetido
+5397,256,Atividade suspeita detectada
+5407,1364,Uso de linguagem ofensiva
+5438,390,Comportamento abusivo com outros usuários
+5440,296,Spam repetido
+5452,1946,Spam repetido
+5455,1553,Uso de linguagem ofensiva
+5467,411,Atividade suspeita detectada
+5470,1723,Atividade suspeita detectada
+5488,908,Spam repetido
+5489,952,Violação dos termos de uso
+5490,382,Fraude confirmada
+5497,859,Tentativa de invasão
+5509,757,Tentativa de invasão
+5514,966,Atividade suspeita detectada
+5526,1742,Comportamento abusivo com outros usuários
+5529,1364,Atividade suspeita detectada
+5536,1099,Fraude confirmada
+5545,1204,Fraude confirmada
+5565,604,Atividade suspeita detectada
+5573,1810,Fraude confirmada
+5574,57,Atividade suspeita detectada
+5578,1050,Fraude confirmada
+5625,247,Atividade suspeita detectada
+5628,1264,Fraude confirmada
+5667,1826,Fraude confirmada
+5670,1438,Atividade suspeita detectada
+5673,195,Atividade suspeita detectada
+5702,351,Comportamento abusivo com outros usuários
+5703,1883,Violação dos termos de uso
+5715,1032,Spam repetido
+5721,2035,Fraude confirmada
+5731,489,Comportamento abusivo com outros usuários
+5752,1850,Violação dos termos de uso
+5755,143,Spam repetido
+5763,738,Tentativa de invasão
+5764,126,Violação dos termos de uso
+5777,1756,Fraude confirmada
+5783,83,Violação dos termos de uso
+5786,113,Comportamento abusivo com outros usuários
+5792,110,Comportamento abusivo com outros usuários
+5812,1818,Fraude confirmada
+5818,1440,Atividade suspeita detectada
+5820,1580,Comportamento abusivo com outros usuários
+5825,815,Violação dos termos de uso
+5830,1856,Comportamento abusivo com outros usuários
+5831,1207,Fraude confirmada
+5850,528,Uso de linguagem ofensiva
+5851,1767,Comportamento abusivo com outros usuários
+5868,1499,Comportamento abusivo com outros usuários
+5887,207,Uso de linguagem ofensiva
+5893,1860,Comportamento abusivo com outros usuários
+5899,1803,Tentativa de invasão
+5905,1719,Atividade suspeita detectada
+5908,37,Fraude confirmada
+5916,85,Spam repetido
+5925,1180,Comportamento abusivo com outros usuários
+5926,1587,Tentativa de invasão
+5951,1422,Comportamento abusivo com outros usuários
+5957,644,Atividade suspeita detectada
+5974,631,Uso de linguagem ofensiva
+5981,1180,Tentativa de invasão
+5992,699,Violação dos termos de uso
+6004,1470,Spam repetido
+6007,1539,Uso de linguagem ofensiva
+6048,1884,Fraude confirmada
+6061,1973,Violação dos termos de uso
+6072,1355,Fraude confirmada
+6080,1028,Atividade suspeita detectada
+6081,1339,Spam repetido
+6087,2065,Violação dos termos de uso
+6113,329,Tentativa de invasão
+6130,1008,Atividade suspeita detectada
+6132,888,Violação dos termos de uso
+6136,1780,Spam repetido
+6140,818,Comportamento abusivo com outros usuários
+6141,1891,Spam repetido
+6160,1546,Violação dos termos de uso
+6164,1357,Violação dos termos de uso
+6166,671,Comportamento abusivo com outros usuários
+6179,124,Uso de linguagem ofensiva
+6189,1837,Atividade suspeita detectada
+6191,960,Uso de linguagem ofensiva
+6196,1888,Violação dos termos de uso
+6204,1715,Atividade suspeita detectada
+6224,1764,Spam repetido
+6237,1059,Uso de linguagem ofensiva
+6238,1430,Comportamento abusivo com outros usuários
+6240,1453,Fraude confirmada
+6241,1703,Comportamento abusivo com outros usuários
+6248,689,Comportamento abusivo com outros usuários
+6264,532,Fraude confirmada
+6271,1748,Atividade suspeita detectada
+6272,1296,Spam repetido
+6286,667,Violação dos termos de uso
+6290,2043,Tentativa de invasão
+6303,1202,Fraude confirmada
+6308,738,Spam repetido
+6323,997,Tentativa de invasão
+6335,266,Fraude confirmada
+6336,1098,Comportamento abusivo com outros usuários
+6347,464,Comportamento abusivo com outros usuários
+6366,1098,Fraude confirmada
+6370,1464,Spam repetido
+6375,1554,Violação dos termos de uso
+6379,251,Atividade suspeita detectada
+6381,331,Comportamento abusivo com outros usuários
+6384,1796,Comportamento abusivo com outros usuários
+6386,536,Uso de linguagem ofensiva
+6388,746,Violação dos termos de uso
+6403,331,Uso de linguagem ofensiva
+6417,1261,Spam repetido
+6431,1235,Comportamento abusivo com outros usuários
+6437,854,Comportamento abusivo com outros usuários
+6438,391,Atividade suspeita detectada
+6443,1982,Fraude confirmada
+6444,1009,Uso de linguagem ofensiva
+6470,494,Violação dos termos de uso
+6480,855,Spam repetido
+6483,1710,Uso de linguagem ofensiva
+6497,1527,Uso de linguagem ofensiva
+6503,1055,Uso de linguagem ofensiva
+6510,98,Tentativa de invasão
+6517,1803,Comportamento abusivo com outros usuários
+6525,1918,Tentativa de invasão
+6527,1502,Violação dos termos de uso
+6532,955,Fraude confirmada
+6536,1805,Atividade suspeita detectada
+6544,399,Uso de linguagem ofensiva
+6549,422,Comportamento abusivo com outros usuários
+6561,1075,Fraude confirmada
+6575,1884,Comportamento abusivo com outros usuários
+6581,1348,Tentativa de invasão
+6582,1916,Uso de linguagem ofensiva
+6617,414,Fraude confirmada
+6622,1051,Violação dos termos de uso
+6630,813,Uso de linguagem ofensiva
+6632,874,Fraude confirmada
+6636,1654,Violação dos termos de uso
+6649,1036,Tentativa de invasão
+6666,1823,Uso de linguagem ofensiva
+6675,348,Tentativa de invasão
+6677,512,Atividade suspeita detectada
+6681,2035,Spam repetido
+6693,861,Violação dos termos de uso
+6707,844,Comportamento abusivo com outros usuários
+6708,80,Tentativa de invasão
+6716,410,Violação dos termos de uso
+6723,1457,Fraude confirmada
+6739,1866,Spam repetido
+6743,701,Spam repetido
+6747,1397,Atividade suspeita detectada
+6749,1185,Atividade suspeita detectada
+6750,1609,Atividade suspeita detectada
+6759,1222,Atividade suspeita detectada
+6761,1098,Fraude confirmada
+6762,417,Violação dos termos de uso
+6772,560,Spam repetido
+6776,227,Tentativa de invasão
+6788,1729,Tentativa de invasão
+6794,1593,Spam repetido
+6806,1274,Spam repetido
+6812,1357,Violação dos termos de uso
+6815,929,Spam repetido
+6818,273,Tentativa de invasão
+6821,1436,Comportamento abusivo com outros usuários
+6834,207,Violação dos termos de uso
+6838,1197,Comportamento abusivo com outros usuários
+6846,1135,Comportamento abusivo com outros usuários
+6859,1563,Tentativa de invasão
+6861,1193,Comportamento abusivo com outros usuários
+6865,1255,Comportamento abusivo com outros usuários
+6895,35,Violação dos termos de uso
+6902,485,Tentativa de invasão
+6913,1711,Comportamento abusivo com outros usuários
+6914,1939,Atividade suspeita detectada
+6923,491,Tentativa de invasão
+6928,741,Comportamento abusivo com outros usuários
+6930,1296,Comportamento abusivo com outros usuários
+6935,1114,Atividade suspeita detectada
+6939,807,Uso de linguagem ofensiva
+6941,774,Spam repetido
+6946,1383,Spam repetido
+6950,720,Atividade suspeita detectada
+6959,1890,Spam repetido
+6973,1355,Atividade suspeita detectada
+6995,618,Atividade suspeita detectada
+7012,1916,Fraude confirmada
+7014,1270,Uso de linguagem ofensiva
+7018,1122,Tentativa de invasão
+7022,1742,Atividade suspeita detectada
+7032,806,Spam repetido
+7033,449,Violação dos termos de uso
+7035,411,Tentativa de invasão
+7041,1657,Tentativa de invasão
+7053,1163,Comportamento abusivo com outros usuários
+7054,284,Fraude confirmada
+7056,1423,Tentativa de invasão
+7058,3,Uso de linguagem ofensiva
+7066,960,Spam repetido
+7077,1341,Tentativa de invasão
+7103,2065,Atividade suspeita detectada
+7119,1258,Comportamento abusivo com outros usuários
+7121,1481,Uso de linguagem ofensiva
+7142,1697,Fraude confirmada
+7144,1923,Atividade suspeita detectada
+7151,194,Comportamento abusivo com outros usuários
+7152,1973,Tentativa de invasão
+7160,207,Atividade suspeita detectada
+7167,1333,Spam repetido
+7170,1737,Violação dos termos de uso
+7176,921,Violação dos termos de uso
+7194,620,Tentativa de invasão
+7196,1133,Fraude confirmada
+7206,1106,Atividade suspeita detectada
+7208,1017,Tentativa de invasão
+7218,1363,Violação dos termos de uso
+7220,663,Comportamento abusivo com outros usuários
+7224,705,Uso de linguagem ofensiva
+7225,631,Uso de linguagem ofensiva
+7227,1497,Tentativa de invasão
+7229,741,Uso de linguagem ofensiva
+7230,1753,Uso de linguagem ofensiva
+7234,1302,Spam repetido
+7245,289,Spam repetido
+7255,5,Fraude confirmada
+7258,1761,Atividade suspeita detectada
+7269,1697,Violação dos termos de uso
+7278,1235,Fraude confirmada
+7290,1683,Spam repetido
+7302,1559,Uso de linguagem ofensiva
+7306,296,Comportamento abusivo com outros usuários
+7313,1985,Fraude confirmada
+7320,239,Uso de linguagem ofensiva
+7322,162,Comportamento abusivo com outros usuários
+7330,2074,Comportamento abusivo com outros usuários
+7338,1522,Atividade suspeita detectada
+7353,190,Fraude confirmada
+7365,8,Uso de linguagem ofensiva
+7376,1960,Uso de linguagem ofensiva
+7378,596,Spam repetido
+7415,1818,Tentativa de invasão
+7418,957,Tentativa de invasão
+7432,779,Violação dos termos de uso
+7437,1094,Spam repetido
+7446,1642,Violação dos termos de uso
+7454,1037,Violação dos termos de uso
+7457,813,Violação dos termos de uso
+7469,1658,Comportamento abusivo com outros usuários
+7477,1877,Uso de linguagem ofensiva
+7485,1387,Violação dos termos de uso
+7493,1237,Uso de linguagem ofensiva
+7495,1173,Tentativa de invasão
+7499,861,Fraude confirmada
+7513,1440,Spam repetido
+7518,494,Spam repetido
+7521,1436,Tentativa de invasão
+7534,498,Tentativa de invasão
+7537,1997,Tentativa de invasão
+7539,1976,Violação dos termos de uso
+7540,878,Atividade suspeita detectada
+7544,175,Atividade suspeita detectada
+7551,1191,Uso de linguagem ofensiva
+7555,621,Violação dos termos de uso
+7566,877,Violação dos termos de uso
+7591,142,Tentativa de invasão
+7645,326,Violação dos termos de uso
+7653,124,Comportamento abusivo com outros usuários
+7656,589,Spam repetido
+7664,2051,Violação dos termos de uso
+7675,327,Spam repetido
+7680,1865,Spam repetido
+7683,178,Spam repetido
+7684,1144,Tentativa de invasão
+7685,1828,Violação dos termos de uso
+7699,1349,Comportamento abusivo com outros usuários
+7702,142,Atividade suspeita detectada
+7707,1587,Uso de linguagem ofensiva
+7712,666,Uso de linguagem ofensiva
+7714,1269,Spam repetido
+7718,1918,Fraude confirmada
+7726,1715,Comportamento abusivo com outros usuários
+7741,143,Violação dos termos de uso
+7742,27,Tentativa de invasão
+7754,1776,Violação dos termos de uso
+7771,696,Spam repetido
+7782,211,Comportamento abusivo com outros usuários
+7789,913,Violação dos termos de uso
+7790,128,Violação dos termos de uso
+7800,900,Atividade suspeita detectada
+7806,1353,Spam repetido
+7807,888,Atividade suspeita detectada
+7810,646,Violação dos termos de uso
+7824,1106,Tentativa de invasão
+7835,747,Fraude confirmada
+7843,1776,Violação dos termos de uso
+7858,879,Tentativa de invasão
+7861,1004,Comportamento abusivo com outros usuários
+7911,674,Comportamento abusivo com outros usuários
+7918,2035,Uso de linguagem ofensiva
+7961,494,Fraude confirmada
+7962,1633,Atividade suspeita detectada
+7978,298,Fraude confirmada
+7979,1031,Fraude confirmada
+7984,111,Atividade suspeita detectada
+7985,387,Spam repetido
+7987,1327,Spam repetido
+8001,1041,Spam repetido
+8004,989,Comportamento abusivo com outros usuários
+8009,306,Violação dos termos de uso
+8016,1278,Comportamento abusivo com outros usuários
+8030,311,Tentativa de invasão
+8036,1351,Comportamento abusivo com outros usuários
+8037,1265,Tentativa de invasão
+8038,2014,Uso de linguagem ofensiva
+8043,961,Comportamento abusivo com outros usuários
+8047,399,Fraude confirmada
+8055,1916,Violação dos termos de uso
+8056,1462,Uso de linguagem ofensiva
+8061,1249,Comportamento abusivo com outros usuários
+8076,1641,Atividade suspeita detectada
+8077,1598,Violação dos termos de uso
+8117,800,Spam repetido
+8130,1696,Tentativa de invasão
+8144,421,Comportamento abusivo com outros usuários
+8153,1107,Atividade suspeita detectada
+8156,164,Uso de linguagem ofensiva
+8183,1190,Atividade suspeita detectada
+8184,164,Tentativa de invasão
+8190,890,Fraude confirmada
+8218,266,Spam repetido
+8237,1117,Spam repetido
+8239,696,Violação dos termos de uso
+8240,1707,Spam repetido
+8243,919,Comportamento abusivo com outros usuários
+8265,1282,Tentativa de invasão
+8281,1777,Spam repetido
+8282,176,Comportamento abusivo com outros usuários
+8283,695,Fraude confirmada
+8287,254,Uso de linguagem ofensiva
+8289,1454,Fraude confirmada
+8293,171,Comportamento abusivo com outros usuários
+8300,953,Comportamento abusivo com outros usuários
+8307,406,Comportamento abusivo com outros usuários
+8317,1422,Spam repetido
+8319,1683,Comportamento abusivo com outros usuários
+8321,576,Fraude confirmada
+8324,283,Uso de linguagem ofensiva
+8330,465,Uso de linguagem ofensiva
+8333,1122,Atividade suspeita detectada
+8342,298,Comportamento abusivo com outros usuários
+8345,369,Uso de linguagem ofensiva
+8359,1532,Comportamento abusivo com outros usuários
+8361,2024,Violação dos termos de uso
+8373,1405,Violação dos termos de uso
+8376,1700,Violação dos termos de uso
+8383,809,Comportamento abusivo com outros usuários
+8391,1723,Atividade suspeita detectada
+8399,1250,Fraude confirmada
+8412,1548,Fraude confirmada
+8429,225,Tentativa de invasão
+8442,498,Tentativa de invasão
+8447,1540,Fraude confirmada
+8449,1357,Comportamento abusivo com outros usuários
+8460,887,Tentativa de invasão
+8469,800,Comportamento abusivo com outros usuários
+8473,439,Atividade suspeita detectada
+8476,1961,Violação dos termos de uso
+8487,1935,Atividade suspeita detectada
+8488,1438,Fraude confirmada
+8496,1192,Tentativa de invasão
+8506,1674,Comportamento abusivo com outros usuários
+8512,1422,Spam repetido
+8538,784,Tentativa de invasão
+8539,1370,Tentativa de invasão
+8555,254,Tentativa de invasão
+8559,887,Violação dos termos de uso
+8576,136,Comportamento abusivo com outros usuários
+8589,928,Spam repetido
+8590,1030,Comportamento abusivo com outros usuários
+8598,244,Comportamento abusivo com outros usuários
+8602,2041,Comportamento abusivo com outros usuários
+8606,1094,Atividade suspeita detectada
+8621,62,Violação dos termos de uso
+8627,961,Violação dos termos de uso
+8631,771,Uso de linguagem ofensiva
+8650,302,Violação dos termos de uso
+8652,1019,Uso de linguagem ofensiva
+8654,780,Uso de linguagem ofensiva
+8655,408,Comportamento abusivo com outros usuários
+8666,362,Atividade suspeita detectada
+8686,958,Violação dos termos de uso
+8700,969,Violação dos termos de uso
+8703,368,Fraude confirmada
+8710,1183,Tentativa de invasão
+8726,2001,Tentativa de invasão
+8734,69,Fraude confirmada
+8739,322,Tentativa de invasão
+8743,458,Uso de linguagem ofensiva
+8746,1968,Spam repetido
+8757,1817,Tentativa de invasão
+8761,742,Spam repetido
+8762,1822,Atividade suspeita detectada
+8764,716,Atividade suspeita detectada
+8780,1991,Spam repetido
+8785,319,Fraude confirmada
+8789,1719,Spam repetido
+8840,535,Tentativa de invasão
+8841,146,Fraude confirmada
+8844,1810,Comportamento abusivo com outros usuários
+8849,2061,Fraude confirmada
+8853,352,Spam repetido
+8864,1759,Spam repetido
+8880,379,Uso de linguagem ofensiva
+8893,136,Violação dos termos de uso
+8894,821,Atividade suspeita detectada
+8921,807,Uso de linguagem ofensiva
+8922,1800,Tentativa de invasão
+8927,501,Atividade suspeita detectada
+8951,1724,Uso de linguagem ofensiva
+8960,57,Comportamento abusivo com outros usuários
+8987,1987,Uso de linguagem ofensiva
+8992,1458,Comportamento abusivo com outros usuários
+8995,1269,Spam repetido
+9004,967,Spam repetido
+9013,943,Fraude confirmada
+9019,1567,Tentativa de invasão
+9040,2013,Atividade suspeita detectada
+9058,83,Violação dos termos de uso
+9074,707,Atividade suspeita detectada
+9080,1688,Fraude confirmada
+9081,1106,Violação dos termos de uso
+9082,1496,Atividade suspeita detectada
+9101,366,Spam repetido
+9103,967,Violação dos termos de uso
+9105,1179,Comportamento abusivo com outros usuários
+9114,1225,Comportamento abusivo com outros usuários
+9126,1419,Atividade suspeita detectada
+9136,1219,Violação dos termos de uso
+9141,627,Tentativa de invasão
+9156,1738,Violação dos termos de uso
+9169,2017,Uso de linguagem ofensiva
+9170,408,Atividade suspeita detectada
+9174,1795,Spam repetido
+9176,1674,Comportamento abusivo com outros usuários
+9181,1957,Comportamento abusivo com outros usuários
+9188,983,Fraude confirmada
+9196,397,Tentativa de invasão
+9199,1917,Atividade suspeita detectada
+9207,768,Spam repetido
+9209,417,Fraude confirmada
+9219,642,Tentativa de invasão
+9224,1328,Atividade suspeita detectada
+9233,12,Uso de linguagem ofensiva
+9288,1968,Comportamento abusivo com outros usuários
+9291,1225,Comportamento abusivo com outros usuários
+9307,1987,Violação dos termos de uso
+9311,1325,Uso de linguagem ofensiva
+9320,1754,Spam repetido
+9327,1112,Comportamento abusivo com outros usuários
+9328,949,Atividade suspeita detectada
+9342,1920,Spam repetido
+9349,647,Fraude confirmada
+9356,2035,Fraude confirmada
+9361,338,Fraude confirmada
+9363,1710,Fraude confirmada
+9371,1935,Fraude confirmada
+9373,581,Spam repetido
+9375,1856,Uso de linguagem ofensiva
+9377,1883,Fraude confirmada
+9383,1584,Uso de linguagem ofensiva
+9408,608,Comportamento abusivo com outros usuários
+9415,1769,Atividade suspeita detectada
+9420,1759,Spam repetido
+9421,136,Comportamento abusivo com outros usuários
+9423,532,Tentativa de invasão
+9431,327,Comportamento abusivo com outros usuários
+9436,1458,Tentativa de invasão
+9437,2060,Atividade suspeita detectada
+9439,846,Atividade suspeita detectada
+9444,1526,Comportamento abusivo com outros usuários
+9447,1786,Comportamento abusivo com outros usuários
+9463,780,Atividade suspeita detectada
+9468,283,Comportamento abusivo com outros usuários
+9482,1114,Violação dos termos de uso
+9483,300,Comportamento abusivo com outros usuários
+9487,1852,Uso de linguagem ofensiva
+9502,270,Violação dos termos de uso
+9511,1983,Spam repetido
+9512,1954,Uso de linguagem ofensiva
+9515,1462,Spam repetido
+9519,1637,Fraude confirmada
+9521,3,Spam repetido
+9540,1602,Violação dos termos de uso
+9558,1774,Uso de linguagem ofensiva
+9563,1800,Tentativa de invasão
+9567,564,Tentativa de invasão
+9572,1950,Uso de linguagem ofensiva
+9574,456,Tentativa de invasão
+9577,788,Tentativa de invasão
+9596,1406,Spam repetido
+9597,1864,Spam repetido
+9599,1771,Atividade suspeita detectada
+9607,1081,Uso de linguagem ofensiva
+9638,1009,Comportamento abusivo com outros usuários
+9658,1318,Spam repetido
+9659,80,Comportamento abusivo com outros usuários
+9676,1922,Atividade suspeita detectada
+9682,842,Violação dos termos de uso
+9684,289,Comportamento abusivo com outros usuários
+9696,715,Uso de linguagem ofensiva
+9698,944,Comportamento abusivo com outros usuários
+9713,2024,Spam repetido
+9731,666,Violação dos termos de uso
+9740,784,Uso de linguagem ofensiva
+9743,718,Violação dos termos de uso
+9746,1826,Comportamento abusivo com outros usuários
+9749,1450,Violação dos termos de uso
+9752,527,Comportamento abusivo com outros usuários
+9756,448,Atividade suspeita detectada
+9757,1113,Tentativa de invasão
+9762,497,Uso de linguagem ofensiva
+9763,2070,Atividade suspeita detectada
+9766,2063,Uso de linguagem ofensiva
+9768,1660,Violação dos termos de uso
+9779,682,Atividade suspeita detectada
+9782,512,Spam repetido
+9786,1656,Uso de linguagem ofensiva
+9787,387,Tentativa de invasão
+9790,1671,Violação dos termos de uso
+9797,1592,Uso de linguagem ofensiva
+9800,270,Violação dos termos de uso
+9802,1828,Tentativa de invasão
+9812,1922,Spam repetido
+9815,938,Uso de linguagem ofensiva
+9827,339,Fraude confirmada
+9871,580,Atividade suspeita detectada
+9915,1754,Violação dos termos de uso
+9916,1748,Uso de linguagem ofensiva
+9921,1050,Comportamento abusivo com outros usuários
+9925,1453,Fraude confirmada
+9926,484,Uso de linguagem ofensiva
+9927,1055,Spam repetido
+9932,1583,Fraude confirmada
+9943,1264,Spam repetido
+9944,1943,Fraude confirmada
+9960,989,Tentativa de invasão
+9965,1314,Comportamento abusivo com outros usuários
+9974,1219,Tentativa de invasão
+9981,1713,Uso de linguagem ofensiva
+9987,1207,Violação dos termos de uso
+9990,1347,Tentativa de invasão

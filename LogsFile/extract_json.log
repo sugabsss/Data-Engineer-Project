@@ -1,0 +1,107 @@
+{"asctime": "2025-05-01 18:44:00,059", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 18:44:00,067", "levelname": "WARNING", "message": "Exce\u00e7\u00e3o na extra\u00e7\u00e3o: 'endpoints'"}
+{"asctime": "2025-05-01 18:45:06,211", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 18:45:06,552", "levelname": "WARNING", "message": "Exce\u00e7\u00e3o na extra\u00e7\u00e3o: unhashable type: 'list'"}
+{"asctime": "2025-05-01 18:48:45,911", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 18:48:46,163", "levelname": "WARNING", "message": "Exce\u00e7\u00e3o na extra\u00e7\u00e3o: unhashable type: 'list'"}
+{"asctime": "2025-05-01 18:54:31,221", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 18:54:31,430", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 18:54:31,627", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 18:54:31,819", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 18:54:32,039", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 18:54:32,257", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 18:54:32,261", "levelname": "ERROR", "message": "Erro na requisi\u00e7\u00e3o HTTP: 404"}
+{"asctime": "2025-05-01 18:55:56,832", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 18:55:57,083", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 18:55:57,272", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 18:55:57,470", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 18:55:57,656", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 18:55:57,838", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 18:55:57,842", "levelname": "ERROR", "message": "Erro na requisi\u00e7\u00e3o HTTP: 404"}
+{"asctime": "2025-05-01 19:54:45,882", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 19:54:47,932", "levelname": "WARNING", "message": "Exce\u00e7\u00e3o na extra\u00e7\u00e3o: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /csv_to_json/usuario.csv (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000152226778C0>: Failed to establish a new connection: [WinError 10061] Nenhuma conex\u00e3o p\u00f4de ser feita porque a m\u00e1quina de destino as recusou ativamente'))"}
+{"asctime": "2025-05-01 19:55:00,732", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 19:55:02,758", "levelname": "WARNING", "message": "Exce\u00e7\u00e3o na extra\u00e7\u00e3o: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /csv_to_json/usuario.csv (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025D29DF78C0>: Failed to establish a new connection: [WinError 10061] Nenhuma conex\u00e3o p\u00f4de ser feita porque a m\u00e1quina de destino as recusou ativamente'))"}
+{"asctime": "2025-05-01 19:55:12,088", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 19:55:14,129", "levelname": "WARNING", "message": "Exce\u00e7\u00e3o na extra\u00e7\u00e3o: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /csv_to_json/usuario.csv (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A2C34378C0>: Failed to establish a new connection: [WinError 10061] Nenhuma conex\u00e3o p\u00f4de ser feita porque a m\u00e1quina de destino as recusou ativamente'))"}
+{"asctime": "2025-05-01 19:55:25,767", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 19:55:27,796", "levelname": "WARNING", "message": "Exce\u00e7\u00e3o na extra\u00e7\u00e3o: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /csv_to_json/usuario.csv (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E8454D78C0>: Failed to establish a new connection: [WinError 10061] Nenhuma conex\u00e3o p\u00f4de ser feita porque a m\u00e1quina de destino as recusou ativamente'))"}
+{"asctime": "2025-05-01 19:55:49,128", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 19:55:51,151", "levelname": "WARNING", "message": "Exce\u00e7\u00e3o na extra\u00e7\u00e3o: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /csv_to_json/usuario.csv (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D298E978C0>: Failed to establish a new connection: [WinError 10061] Nenhuma conex\u00e3o p\u00f4de ser feita porque a m\u00e1quina de destino as recusou ativamente'))"}
+{"asctime": "2025-05-01 19:56:45,013", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 19:56:45,342", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 19:56:45,559", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 19:56:45,767", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 19:56:45,956", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 19:56:46,170", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 19:56:46,174", "levelname": "ERROR", "message": "Erro na requisi\u00e7\u00e3o HTTP: 404"}
+{"asctime": "2025-05-01 19:57:34,523", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 19:57:34,864", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 19:57:35,166", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 19:57:35,398", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 19:57:35,615", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 19:57:35,831", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 19:57:35,834", "levelname": "ERROR", "message": "Erro na requisi\u00e7\u00e3o HTTP: 404"}
+{"asctime": "2025-05-01 19:59:11,626", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 19:59:11,634", "levelname": "ERROR", "message": "Erro na requisi\u00e7\u00e3o HTTP: 404"}
+{"asctime": "2025-05-01 19:59:30,805", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 19:59:30,819", "levelname": "ERROR", "message": "Erro na requisi\u00e7\u00e3o HTTP: 404"}
+{"asctime": "2025-05-01 19:59:59,559", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 19:59:59,842", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:00,118", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:00,358", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:00,580", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:00,823", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:01,043", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:01,313", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:01,516", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:01,747", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:01,956", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:02,147", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:02,406", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:02,613", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:02,809", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:03,055", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:03,269", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:03,474", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:03,697", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:00:03,700", "levelname": "WARNING", "message": "Exce\u00e7\u00e3o na extra\u00e7\u00e3o: 'DataFrame' object has no attribute 'write'"}
+{"asctime": "2025-05-01 20:08:31,577", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 20:08:32,205", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:32,487", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:32,754", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:32,973", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:33,218", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:33,452", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:33,679", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:33,890", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:34,173", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:34,390", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:34,680", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:34,989", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:35,240", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:35,444", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:35,717", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:35,958", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:36,189", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:36,393", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:08:36,397", "levelname": "WARNING", "message": "Exce\u00e7\u00e3o na extra\u00e7\u00e3o: 'DataFrame' object has no attribute 'read'"}
+{"asctime": "2025-05-01 20:10:39,455", "levelname": "INFO", "message": " Conex\u00e3o com banco de dados estabelecida! "}
+{"asctime": "2025-05-01 20:10:39,722", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:40,034", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:40,259", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:40,522", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:40,786", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:41,054", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:41,322", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:41,667", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:41,917", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:42,185", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:42,393", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:42,689", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:42,903", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:43,187", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:43,415", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:43,650", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:43,858", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}
+{"asctime": "2025-05-01 20:10:44,066", "levelname": "INFO", "message": " Sem erros na requisi\u00e7\u00e3o : 200"}

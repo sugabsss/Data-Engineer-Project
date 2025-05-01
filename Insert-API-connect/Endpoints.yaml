@@ -1,0 +1,21 @@
+# Endpoints json FastAPI 
+
+Endpoints:
+    - path: "/usuario.csv"
+    - path: "/funcionarios.csv"
+    - path: "/excluidos.csv"
+    - path: "/banidos.csv"
+    - path: "/clientes.csv"
+    - path: "/freelancers.csv"
+    - path: "/freelancer_especialidades.csv"
+    - path: "/projetos.csv"
+    - path: "/propostas.csv"
+    - path: "/pagamentos_clientes.csv"
+    - path: "/info_bancaria_freelancer.csv"
+    - path: "/pagamento_freelancers.csv"
+    - path: "/credito_clientes.csv"
+    - path: "/pix_clientes.csv"
+    - path: "/boletos_clientes.csv"
+    - path: "/ted_clientes.csv"
+    - path: "/avaliacoes_freelacers.csv"
+    - path: "/avaliacoes_clientes.csv"
